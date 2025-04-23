@@ -1,3 +1,0 @@
-console.log("Thung Thung Thung Sahur!")
-console.log("Bombardiro crocodilo!")
-console.log("test")
